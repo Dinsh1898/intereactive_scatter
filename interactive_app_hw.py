@@ -4,7 +4,6 @@ import random
 import altair as alt
 import numpy as np
 import pandas as pd
-import matplotlib as plt
 
 df = pd.read_csv("winequality-red.csv")
 st.write(df)
