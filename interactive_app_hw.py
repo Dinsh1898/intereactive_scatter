@@ -1,5 +1,4 @@
 from ast import Interactive
-from matplotlib.pyplot import title
 import streamlit as st
 import random
 import altair as alt
